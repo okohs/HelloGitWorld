@@ -5,3 +5,5 @@ Test repository creating "Git for Beginners"
 
 #world
 よろしくお願いします:)★！
+
+test issueに対応してみたよ！(紐づけやってみたいだけ)
